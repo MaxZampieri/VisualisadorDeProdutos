@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\VisualizadorDeProdutos\VisualizadorDeProdutos\bin\Debug\netcoreapp3.1\VisualizadorDeProdutos.exe
+C:\Users\Usuario\source\repos\VisualizadorDeProdutos\VisualizadorDeProdutos\bin\Debug\netcoreapp3.1\VisualizadorDeProdutos.deps.json
+C:\Users\Usuario\source\repos\VisualizadorDeProdutos\VisualizadorDeProdutos\bin\Debug\netcoreapp3.1\VisualizadorDeProdutos.runtimeconfig.json
+C:\Users\Usuario\source\repos\VisualizadorDeProdutos\VisualizadorDeProdutos\bin\Debug\netcoreapp3.1\VisualizadorDeProdutos.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\VisualizadorDeProdutos\VisualizadorDeProdutos\bin\Debug\netcoreapp3.1\VisualizadorDeProdutos.dll
+C:\Users\Usuario\source\repos\VisualizadorDeProdutos\VisualizadorDeProdutos\bin\Debug\netcoreapp3.1\VisualizadorDeProdutos.pdb
+C:\Users\Usuario\source\repos\VisualizadorDeProdutos\VisualizadorDeProdutos\obj\Debug\netcoreapp3.1\VisualizadorDeProdutos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\VisualizadorDeProdutos\VisualizadorDeProdutos\obj\Debug\netcoreapp3.1\VisualizadorDeProdutos.Form1.resources
+C:\Users\Usuario\source\repos\VisualizadorDeProdutos\VisualizadorDeProdutos\obj\Debug\netcoreapp3.1\VisualizadorDeProdutos.Properties.Resources.resources
+C:\Users\Usuario\source\repos\VisualizadorDeProdutos\VisualizadorDeProdutos\obj\Debug\netcoreapp3.1\VisualizadorDeProdutos.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\VisualizadorDeProdutos\VisualizadorDeProdutos\obj\Debug\netcoreapp3.1\VisualizadorDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\VisualizadorDeProdutos\VisualizadorDeProdutos\obj\Debug\netcoreapp3.1\VisualizadorDeProdutos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\VisualizadorDeProdutos\VisualizadorDeProdutos\obj\Debug\netcoreapp3.1\VisualizadorDeProdutos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\VisualizadorDeProdutos\VisualizadorDeProdutos\obj\Debug\netcoreapp3.1\VisualizadorDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\VisualizadorDeProdutos\VisualizadorDeProdutos\obj\Debug\netcoreapp3.1\VisualizadorDeProdutos.dll
+C:\Users\Usuario\source\repos\VisualizadorDeProdutos\VisualizadorDeProdutos\obj\Debug\netcoreapp3.1\VisualizadorDeProdutos.pdb
+C:\Users\Usuario\source\repos\VisualizadorDeProdutos\VisualizadorDeProdutos\obj\Debug\netcoreapp3.1\VisualizadorDeProdutos.genruntimeconfig.cache
